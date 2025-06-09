@@ -19,5 +19,6 @@ config.default_cursor_style = "BlinkingBar"
 config.color_scheme = "Catppuccin Mocha"
 
 config.hide_tab_bar_if_only_one_tab = true
+config.window_decorations = "RESIZE"
 -- Finally, return the configuration to wezterm:
 return config
