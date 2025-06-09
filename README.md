@@ -15,4 +15,4 @@ This README provides a single shell command to download my **personal `.wezterm.
 To download my `.wezterm.lua` file and save it to your `$HOME`, use the command below:
 
 ```bash
-git clone --depth 1 [https://github.com/fefortunato/wezterm](https://github.com/fefortunato/wezterm) /tmp/temp_wezterm && mv /tmp/temp_wezterm/.wezterm.lua "$HOME"/.wezterm.lua && rm -rf /tmp/temp_wezterm
+git clone --depth 1 https://github.com/fefortunato/wezterm /tmp/temp_wezterm && mv /tmp/temp_wezterm/.wezterm.lua "$HOME"/.wezterm.lua && rm -rf /tmp/temp_wezterm
